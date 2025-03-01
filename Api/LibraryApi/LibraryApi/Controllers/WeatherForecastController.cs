@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace libmatik.Controllers;
+namespace LibraryApi.Controllers;
 
 [ApiController]
 [Route("[controller]")]

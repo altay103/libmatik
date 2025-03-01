@@ -1,4 +1,4 @@
-namespace libmatik
+namespace LibraryApi
 {
     public class WeatherForecast
     {
