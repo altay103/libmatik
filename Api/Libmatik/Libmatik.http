@@ -1,0 +1,6 @@
+@Libmatik_HostAddress = http://localhost:5074
+
+GET {{Libmatik_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Libmatik.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\libmatik\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Libmatik.csproj|solutionrelative:libmatik\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\libmatik\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|solutionrelative:libmatik\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\config\\rentstockconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\rentstockconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\config\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7433E-BFB9-443E-93C9-915BFADE4164}|Entities\\Entities.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7433E-BFB9-443E-93C9-915BFADE4164}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\libmatik\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|solutionrelative:libmatik\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7433E-BFB9-443E-93C9-915BFADE4164}|Entities\\Entities.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\entities\\models\\rentstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7433E-BFB9-443E-93C9-915BFADE4164}|Entities\\Entities.csproj|solutionrelative:entities\\models\\rentstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\config\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7433E-BFB9-443E-93C9-915BFADE4164}|Entities\\Entities.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7433E-BFB9-443E-93C9-915BFADE4164}|Entities\\Entities.csproj|solutionrelative:entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Libmatik.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\libmatik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Libmatik.csproj|solutionrelative:libmatik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\libmatik\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|solutionrelative:libmatik\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\libmatik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C43C26-3CB6-4A4C-AD7A-E204F7CA0688}|Libmatik\\Api.csproj|solutionrelative:libmatik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|c:\\users\\buyuk\\documents\\github\\libmatik\\api\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEC8F0-AEDC-4735-BF0B-65B95167D414}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 286,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\Config\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\Config\\UserConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\UserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:43:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentStockConfig.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\Config\\RentStockConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\RentStockConfig.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\Config\\RentStockConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\RentStockConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:35:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookConfig.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\Config\\BookConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\BookConfig.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\Config\\BookConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\BookConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:19:53.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RentStock.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Entities\\Models\\RentStock.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\RentStock.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Entities\\Models\\RentStock.cs",
+              "RelativeToolTip": "Entities\\Models\\RentStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:56:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Entities\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Entities\\Models\\Book.cs",
+              "RelativeToolTip": "Entities\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:55:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Libmatik\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\appsettings.Development.json",
+              "RelativeToolTip": "Libmatik\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T09:01:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\appsettings.json",
+              "RelativeDocumentMoniker": "Libmatik\\appsettings.json",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\appsettings.json",
+              "RelativeToolTip": "Libmatik\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T09:01:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "Libmatik\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "Libmatik\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:59:22.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Api.csproj",
+              "RelativeDocumentMoniker": "Libmatik\\Api.csproj",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Api.csproj",
+              "RelativeToolTip": "Libmatik\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T08:58:00.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:41:02.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:36:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:25:20.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:08:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:22:51.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\EFCore\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:06:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:07:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:47:03.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Libmatik\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Libmatik\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:28:24.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Program.cs",
+              "RelativeDocumentMoniker": "Libmatik\\Program.cs",
+              "ToolTip": "C:\\Users\\buyuk\\Documents\\GitHub\\libmatik\\Api\\Libmatik\\Program.cs",
+              "RelativeToolTip": "Libmatik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:28:20.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
